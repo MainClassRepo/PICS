@@ -1,4 +1,4 @@
 
-This is file txt for main clas repo
+This is file txt for main class repo
  
 
